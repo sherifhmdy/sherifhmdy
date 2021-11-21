@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing code and learning new technologies.
 - 🌱 I’m currently learning devops engineering.
 - 💞️ I’m looking to collaborate on devops related projects.
-- 📫 you can reach me on my mail sherifhmdy@icloud.com
+- 📫 you can reach me on my mail http://linkedin.com/sherifhmdy
 
 <!---
 sherifhmdy/sherifhmdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
