@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sherifhmdy
 - 👀 I’m interested in writing code and learning new technologies.
-- 🌱 I’m currently learning devops engineering.
+- 🌱 I’m a DevOps Engineer.
 - 💞️ I’m looking to collaborate on devops related projects.
 - 📫 you can reach me on my mail sherifhmdy@icloud.com
 - ⌨️ My linkedin account https://linkedin.com/in/sherifhmdy
