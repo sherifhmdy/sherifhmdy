@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sherifhmdy
 - 👀 I’m interested in writing code and learning new technologies.
 - 🌱 I’m a DevOps Engineer.
-- 💞️ I’m looking to collaborate on devops related projects.
+- 💞️ I’m looking to contribute to opensource projects [Golang, Java, Python].
 - 📫 you can reach me on my mail sherifhmdy@icloud.com
 - ⌨️ My linkedin account https://linkedin.com/in/sherifhmdy
 
